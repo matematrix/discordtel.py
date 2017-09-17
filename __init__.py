@@ -10,8 +10,6 @@ from discoin import Discoin
 
 client = commands.Bot(command_prefix=">", pm_help=False)
 
-
-discoin_token = "Censored"
 discoin = Discoin(discoin_token)
 
 
