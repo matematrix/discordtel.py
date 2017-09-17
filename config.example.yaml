@@ -1,0 +1,10 @@
+token: bot token
+discoin: discoin token
+
+admins: 
+    - userid
+    - another userid
+
+config:
+    command_prefix: >
+    pm_help: yes
